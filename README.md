@@ -1,3 +1,8 @@
+# webapp4_server_nestjs2
+
+このリポジトリは webapp4 ウェブアプリ４ である。
+フリーランスエンジニア 仲田明紀が NestJSをベースに作成している Web アプリの基本テンプレートを構築したものである。
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
